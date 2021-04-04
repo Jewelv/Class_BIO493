@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD and nayans change
 this is for exam 3 and for the future
 =======
 this is for exam 3 and Jewel's Change
